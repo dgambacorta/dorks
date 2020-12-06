@@ -1,0 +1,22 @@
+site:codepad.co target
+inurl: gitlab target
+site: * .atlassian.net target
+site:npm.runkit.com target
+site:npmjs.com target
+site:libraries.io target
+site:coggle.it target
+site:papaly.com target
+site:trello.com target
+site:prezi.com target
+site:jsdeliver.net target
+Site:repl.it target
+site:gitter.im target
+site:http://scribd.com target
+site:http://ycombinator.com target 
+site:http://sharecode.io target 
+site:http://pastebin.com target
+site:http://repl.it target 
+site:http://productforums.google.com target 
+site:http://bitbucket.org target 
+atlassian.net target
+inurl:gitlab target
